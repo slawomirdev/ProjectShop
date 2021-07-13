@@ -30,7 +30,7 @@ export const ProductsProvider = ({ children }) => {
     dispatch({ type: SIDEBAR_OPEN });
   };
 
-  const closeSidebar = () => {
+  const closeSidebar = (url) => {
     dispatch({ type: SIDEBAR_CLOSE });
   };
 
