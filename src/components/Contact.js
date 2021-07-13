@@ -12,11 +12,16 @@ const Contact = () => {
             similique delectus quia molestias et nesciunt dolores eligendi?
             Facilis, molestias in!
           </p>
-          <form action="" className="contact-form">
+          <form
+            action="https://formspree.io/f/mwkanokd"
+            method="POST"
+            className="contact-form"
+          >
             <input
               type="email"
               className="form-input"
               placeholder="enter email"
+              name="_replyto"
             />
             <button type="submit" className="submit-btn">
               subscribe
