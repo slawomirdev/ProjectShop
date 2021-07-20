@@ -1,13 +1,12 @@
  # E-commerce Store
 
-> 
-Comfy Shop is a store project that uses the latest technologies to authorize and handle payments.
+> Comfy Shop is a store project that uses the latest technologies to authorize and handle payments.
 
 ![home](./img/home.png)
 ![home](./img/cart.png)
 ![home](./img/products.png)
 
-The project was created during the React 2020 course by John Smilga. All credit goes to him. [YT channel](https://www.youtube.com/c/CodingAddict)
+> The project was created during the React 2020 course by John Smilga. All credit goes to him. [YT channel](https://www.youtube.com/c/CodingAddict)
 
 ## Built With
 
